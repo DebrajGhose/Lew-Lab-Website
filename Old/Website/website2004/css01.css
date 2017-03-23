@@ -1,0 +1,50 @@
+body {
+  margin: 0px 0px 0px 0px;
+  background-color: lightblue;
+  font-family: Arial, Helvetica, Geneva;
+}
+
+h1 {
+  margin-top: 0px;
+}
+
+.top {
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  background: palegoldenrod;
+  border-bottom: 2px goldenrod solid;
+}
+
+.nav {
+  background: palegoldenrod;
+  font-size: 80%;
+  width: 180;
+  border-right: 2px goldenrod double;
+}
+
+.nav a {
+  color: #006633;
+  width: 170px;
+  padding: 1px 0px 1px 10px;
+  text-decoration: none;
+  border-bottom: 2px goldenrod solid;
+  display: block;
+}
+
+.nav a:hover {
+  background: goldenrod;
+  color: #004411;
+}
+
+.content {
+  padding: 10px 10px 10px 10px;
+  padding-left: 10px;
+}
+
+.updated {
+  padding: 5px 0px 1px 10px;
+  font-size: 70%;
+  font-style: italic;
+  color: #000033;
+}
+
